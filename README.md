@@ -211,4 +211,4 @@ I will fix these at a later date :) But for the mean time let me know how you go
 
 
 Also apologies for teh crappy layout ill fix it up later
-
+Here is my XDA Post https://forum.xda-developers.com/raspberry-pi/development/mediacenter-rpi-media-center-beta-t3768793/post76018850#post76018850
