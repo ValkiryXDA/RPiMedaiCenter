@@ -1,3 +1,5 @@
+New update coming soon - finally have a rpi thats not being used so release's can be done better :D
+ 6/5/2018
 This project aims to explain how to set up a complete multimedia center (mediacenter), a game station and a download server. All in one. Any use aimed at hacking / stealing content with copyrights / third parties without express consent is prohibited. This project is based on a set of free software that can be easily found on the internet. This project has no lucrative purpose, its sole purpose is to teach and educate people the configuration and use of the different programs. This project was originally maintained by AikonCWD and has since stopped updating the project, so i am taking it on board to get it back up and running smoothly again. Obviously there will and are hick-ups/bugs. Thus for the mean time i will keep the project in Beta until we have a fully functional release. 
 For DCMA reasons Kodi will be supplied with NO EXTRA ADD-ONS. Please do not ask about them Look HERE if you are such inclined to do so. We do not condone such behavior.
 
